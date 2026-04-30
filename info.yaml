@@ -4,7 +4,7 @@ project:
   title:        "a tour-in the haunted house"      # Project title
   author:       "amine AND AMEL"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "this games u will be playing as a little child"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
